@@ -10,9 +10,7 @@ var unusedVar2; // Nog een ongebruikte variabele
 var getal1 = 4;
 var getal2 = 5;
 
-va test;
 
-cons test;
 
 
 Naam = "Jan";
@@ -25,8 +23,7 @@ unusedVariable = 42; // Deze variabele is ook niet gebruikt
 huts = 5;
 unusedVar2 = 5+3; // Deze variabele is ook niet gebruikt
 var getal3 = getal1 + getal2;
-test = "yow";
-test = "hello";
+
 
 console.log("Naam: " + Naam);
 console.log("Leeftijd: " + leeftijd);
@@ -40,6 +37,5 @@ console.log("Nog een ongebruikte variabele: " + unusedVar2);
 console.log("Getal 1: " + getal1);
 console.log("Getal 2: " + getal2);
 console.log("Som van Getal 1 en Getal 2: " + getal3);
-console.log("Test variabele: " + test);
-console.log("Constante test: " + cons);
+
 
