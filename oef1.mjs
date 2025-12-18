@@ -10,7 +10,7 @@ var unusedVar2; // Nog een ongebruikte variabele
 var getal1 = 4;
 var getal2 = 5;
 
-con test;
+const test = 3;
 
 
 
@@ -25,7 +25,6 @@ unusedVariable = 42; // Deze variabele is ook niet gebruikt
 huts = 5;
 unusedVar2 = 5+3; // Deze variabele is ook niet gebruikt
 var getal3 = getal1 + getal2;
-test = 3;
 
 
 console.log("Naam: " + Naam);
