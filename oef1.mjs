@@ -12,6 +12,8 @@ var getal2 = 5;
 
 const test = 3;
 
+con yoehoe;
+
 
 
 
