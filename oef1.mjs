@@ -12,6 +12,8 @@ var getal2 = 5;
 
 va test;
 
+cons test;
+
 
 Naam = "Jan";
 leeftijd = 25;
@@ -24,6 +26,7 @@ huts = 5;
 unusedVar2 = 5+3; // Deze variabele is ook niet gebruikt
 var getal3 = getal1 + getal2;
 test = "yow";
+test = "hello";
 
 console.log("Naam: " + Naam);
 console.log("Leeftijd: " + leeftijd);
@@ -38,4 +41,5 @@ console.log("Getal 1: " + getal1);
 console.log("Getal 2: " + getal2);
 console.log("Som van Getal 1 en Getal 2: " + getal3);
 console.log("Test variabele: " + test);
+console.log("Constante test: " + cons);
 
